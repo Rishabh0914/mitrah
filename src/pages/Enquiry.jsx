@@ -72,8 +72,8 @@ export default function Enquiry() {
         },
         body: JSON.stringify({
           access_key: ACCESS_KEY,
-          subject: `New enquiry from ${form.name} — Mitraah`,
-          from_name: "Mitraah Website",
+          subject: `New enquiry from ${form.name} — Mitrah`,
+          from_name: "Mitrah Website",
           name: form.name,
           email: form.email,
           phone: form.phone || "Not provided",

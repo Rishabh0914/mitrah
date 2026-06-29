@@ -5,7 +5,7 @@ export default function Logo({ className = "" }) {
     <Link
       to="/"
       className={`group flex items-center gap-2.5 ${className}`}
-      aria-label="Mitraah home"
+      aria-label="Mitrah home"
     >
       <span className="grid h-10 w-10 place-items-center rounded-2xl bg-blush shadow-soft transition group-hover:-translate-y-0.5">
         <svg viewBox="0 0 64 64" className="h-7 w-7" aria-hidden="true">
@@ -23,7 +23,7 @@ export default function Logo({ className = "" }) {
         </svg>
       </span>
       <span className="flex flex-col leading-none">
-        <span className="font-serif text-xl font-600 text-cocoa">Mitraah</span>
+        <span className="font-serif text-xl font-600 text-cocoa">Mitrah</span>
         <span className="text-[10px] uppercase tracking-[0.22em] text-rose/80">
           therapy &amp; wellbeing
         </span>

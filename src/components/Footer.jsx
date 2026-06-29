@@ -31,7 +31,7 @@ export default function Footer() {
                 Reach Out
               </h4>
               <ul className="space-y-2 text-sm text-cocoa/80">
-                <li>hello@mitraah.care</li>
+                <li>hello@mitrahofficial.com</li>
                 <li>+91 98765 43210</li>
                 <li>Mon–Sat · 9am–7pm</li>
               </ul>
@@ -40,7 +40,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 border-t border-rose/10 pt-6 text-center text-xs text-cocoa/60">
-          © {new Date().getFullYear()} Mitraah Therapy. Made with care. · If you
+          © {new Date().getFullYear()} Mitrah Therapy. Made with care. · If you
           are in crisis, please contact your local emergency services.
         </div>
       </div>

@@ -29,13 +29,13 @@ export default function About() {
       <section className="bg-gradient-to-b from-blush/30 to-cream">
         <div className="section text-center">
           <span className="inline-block rounded-full bg-white/70 px-4 py-1.5 text-sm font-semibold text-rose shadow-soft">
-            About Mitraah
+            About Mitrah
           </span>
           <h1 className="mx-auto mt-6 max-w-3xl text-4xl font-600 leading-tight md:text-5xl">
             Hi, I’m Dr. Aanya — and I’m so glad you’re here.
           </h1>
           <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-cocoa/80">
-            “Mitraah” means friend. That’s exactly the kind of relationship I
+            “Mitrah” means friend. That’s exactly the kind of relationship I
             hope to offer — steady, honest, and on your side.
           </p>
         </div>
