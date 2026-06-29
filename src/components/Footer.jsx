@@ -31,7 +31,7 @@ export default function Footer() {
                 Reach Out
               </h4>
               <ul className="space-y-2 text-sm text-cocoa/80">
-                <li>hello@mitrahofficial.com</li>
+                <li>anoushka@mitrahofficial.com</li>
                 <li>+91 98765 43210</li>
                 <li>Mon–Sat · 9am–7pm</li>
               </ul>
