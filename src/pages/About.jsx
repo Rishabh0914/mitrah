@@ -32,7 +32,7 @@ export default function About() {
             About Mitrah
           </span>
           <h1 className="mx-auto mt-6 max-w-3xl text-4xl font-600 leading-tight md:text-5xl">
-            Hi, I’m Dr. Aanya — and I’m so glad you’re here.
+            Hi, I’m Anoushka Acharya — and I’m so glad you’re here.
           </h1>
           <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-cocoa/80">
             “Mitrah” means friend. That’s exactly the kind of relationship I
