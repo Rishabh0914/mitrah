@@ -32,7 +32,7 @@ export default function Footer() {
               </h4>
               <ul className="space-y-2 text-sm text-cocoa/80">
                 <li>anoushka@mitrahofficial.com</li>
-                <li>+91 98765 43210</li>
+                <li>+91 98930 49810</li>
                 <li>Mon–Sat · 9am–7pm</li>
               </ul>
             </div>
